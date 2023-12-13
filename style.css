@@ -1,3 +1,5 @@
+
+
 body {
     background-color: rgb(255, 244, 212);
 }
@@ -12,14 +14,21 @@ body {
 
 h3 {
     padding-top: 30px;
+    font-size: 22px;
+}
+
+p {
+    font-size: 18px;
 }
 
 img {
     width: 100%;
     padding-bottom: 50px;
 }
+
 iframe {
     padding-bottom: 30px;
     margin-bottom: 30px;
+    width: 100%;
     border-bottom: 2px solid #000;
 }
