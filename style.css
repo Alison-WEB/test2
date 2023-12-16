@@ -32,3 +32,9 @@ iframe {
     width: 100%;
     border-bottom: 2px solid #000;
 }
+
+@media screen and (max-width: 768px) {
+    iframe {
+        height: 400px;
+    }
+}
