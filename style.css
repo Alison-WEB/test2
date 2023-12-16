@@ -1,4 +1,4 @@
-
+https://alison-web.github.io/test2/video.html
 
 body {
     background-color: rgb(255, 244, 212);
@@ -33,8 +33,8 @@ iframe {
     border-bottom: 2px solid #000;
 }
 
-@media screen and (max-width: 960px) {
+@media screen and (max-width: 1200px) {
     iframe {
-        height: 400px;
+        height: 310px;
     }
 }
